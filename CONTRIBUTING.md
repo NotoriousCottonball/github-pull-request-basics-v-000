@@ -33,7 +33,5 @@ ever seen.
 We need help from the community of Learners to maintain and improve the
 educational content.
 
-All contributions to making the curriculum more effective are
-welcome: everything from fixing typos, to correcting
-out-dated information, to improving exposition, to adding better examples,
-to fixing tests—.
+We welcome all contributions that help make the curriculum more effective: everything from fixing typos, to correcting
+out-dated information, to improving exposition, to adding better examples, to fixing tests. 
